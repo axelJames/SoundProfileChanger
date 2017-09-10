@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sound Profile  Changer</string>
+    <string name="monday">monday</string>
+    <string name="tuesday">tuesday</string>
+    <string name="wednesday">wednesday</string>
+    <string name="colon">:</string>
+    <string name="hyphen">-</string>
+    <string name="done">Done</string>
+    <string name="thursday">thursday</string>
+    <string name="friday">friday</string>
+    <string name="saturday">saturday</string>
+    <string name="sunday">sunday</string>
+    <string name="_12">12</string>
+    <string name="m">M</string>
+</resources>
